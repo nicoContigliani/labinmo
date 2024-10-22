@@ -1,0 +1,19 @@
+//TODO ojo las imagenes no se exportan!!!!!!!!!!!!!!!!
+//TODO balcony ->  balcon_propiedad trae un objeto ????
+
+
+//numberos_ambientes_propiedad:(usa Bedroom pero deberí ser )
+// falta dormitorios ... lo tiene en la descripción y en next no esta directamente y se usa bedroom para otra cosa 
+
+esta locality   y  location ->   const location = {
+    lat: -34.603722, 
+    lng: -58.381592 
+  };
+  const direccion = `${calle} ${numero_calle}, Piso ${piso}, Depto ${depto}, ${nombre_localidad}, ${nombre_provincia}, `;
+
+le falta un elemento isRent:boolean  -> sino es sale 
+
+junto la  locación ? 
+
+no le veo sale or rent
+
